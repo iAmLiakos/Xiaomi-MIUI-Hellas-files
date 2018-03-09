@@ -1,5 +1,4 @@
-<!-- Javascript gia ta buttons -->
-<script>
+//<!-- Javascript gia ta buttons -->
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
@@ -14,4 +13,3 @@ for (i = 0; i < coll.length; i++) {
         }
     });
 }
-</script>
